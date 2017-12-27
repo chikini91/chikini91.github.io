@@ -1,0 +1,16 @@
+div {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 5px rgba(0,0,0, .5);
+}
+
+#popup-2 {
+    display: none;
+}
+
+#popup-2.visible{
+    display: block;
+}
